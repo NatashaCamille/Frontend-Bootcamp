@@ -1,2 +1,2 @@
 # Bootstrap-test
-Building a website with Boogtstrap with minimal CSS and JS
+Building a website with Bootstrap with minimal CSS and JS
